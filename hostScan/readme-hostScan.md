@@ -15,3 +15,6 @@ Small bash script, whose function is to detect devices connected to a class C ne
 - hostScan <ip_address>
 
 ![hostScan used error](./img/hostscan1.png)
+
+
+**Script subject to change.**
