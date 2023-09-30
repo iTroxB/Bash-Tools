@@ -15,3 +15,6 @@ Small bash script, whose function is to scan open ports on a host, by sending em
 - portScan <ip_address>
 
 ![portScan used error](./img/portscan1.png)
+
+
+**Script subject to change.**
