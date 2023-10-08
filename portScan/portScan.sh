@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: aKa iTrox
+# Author: iTrox
 
 ########################
 ##### COLOURS EDIT #####
