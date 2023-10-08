@@ -12,7 +12,7 @@ Small bash script, whose function is by sending an ICMP packet and interpreting 
 
 ## Use
 
-- whichSystem <ip_address or domain>
+- whichSystem <ip_address>
 
 ![whichSystem used error](./img/wsystem1.png)
 
