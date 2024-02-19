@@ -12,7 +12,7 @@ Script that allows to convert domain names to IP addresses.
 
 ## Use
 
-- DOMConverter <domain or subdomain list>
+- DOMConverter <<domain or subdomain list>>
 
 ![hostScan used error](./img/hostscan1.png)
 
