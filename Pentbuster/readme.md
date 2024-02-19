@@ -11,7 +11,7 @@ Script that performs fuzzing of directories and cheros on the URL of a web site 
 
 ## Use
 
-- Pentbuster --url </target> --wordlist </path/to/wordlist/list.txt> [--threads <number>]
+- Pentbuster --url <URL/target> --wordlist </path/to/wordlist/list.txt> [--threads <number>]
 
 ![hostScan used error](./img/hostscan1.png)
 
